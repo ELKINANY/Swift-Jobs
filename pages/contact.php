@@ -7,13 +7,13 @@
                 <h2 class="mb-3">معلومات الاتصال</h2>
                 <ul class="list-unstyled">
                     <li class="mb-2">
-                        <strong>العنوان:</strong> شارع الملك فهد، الرياض، المملكة العربية السعودية
+                        <strong>العنوان:</strong> معهد مصر العالي للتجارة وللتجارة والحاسبات
                     </li>
                     <li class="mb-2">
-                        <strong>الهاتف:</strong> +966 11 234 5678
+                        <strong>الهاتف:</strong> +123 456 7890
                     </li>
                     <li class="mb-2">
-                        <strong>البريد الإلكتروني:</strong> info@wadhfny.com
+                        <strong>البريد الإلكتروني:</strong> support@swiftjobs.com
                     </li>
                 </ul>
                 <h3 class="mt-4 mb-3">ساعات العمل</h3>
