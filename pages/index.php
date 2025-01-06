@@ -1,5 +1,3 @@
-<?php include "./head.php"?>
-<!-- Navbar -->
 <?php include "./navBar.php";
     ?>
     <!-- Hero Section -->
@@ -102,7 +100,8 @@
           <div class="job-card">
               <div class="job-title">
                   <div class="job-title-icon">
-                    <i class="fa-solid fa-circle-user fa-xl"></i>                  </div>
+                    <i class="fa-solid fa-circle-user fa-xl"></i>
+                    </div>
                   <span class="job-title-text">أخصائي إداري</span>
               </div>
               <div class="company-name">
@@ -132,8 +131,4 @@
 <!-- Footer -->
 <?php
   include "./footer.php" 
-  ?>
-    <!-- Bootstrap JS -->
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
-</body>
-</html>
+?>
