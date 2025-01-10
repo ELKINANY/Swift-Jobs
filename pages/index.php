@@ -11,7 +11,7 @@
                         </div>
                         <h2 class="h4 mt-3">سجل كمنشأة</h2>
                         <p class="text-muted">سجل منشأتك وابدأ في توظيف الكفاءات</p>
-                        <button class="btn btn-custom-primary w-100">تسجيل منشأة</button>
+                        <a href="./companiesSignup.php" class="btn btn-custom-primary w-100">تسجيل منشأة</a>
                     </div>
                 </div>
                 <div class="col-md-4">
@@ -21,7 +21,7 @@
                         </div>
                         <h2 class="h4 mt-3">سجل كفرد</h2>
                         <p class="text-muted">سجل كباحث عن عمل واكتشف الفرص المتاحة</p>
-                        <button class="btn btn-custom-primary w-100">تسجيل فرد</button>
+                        <a href="./userSignup.php" class="btn btn-custom-primary w-100">تسجيل فرد</a>
                     </div>
                 </div>
             </div>
@@ -120,7 +120,7 @@
                 وظفني رح يساعدك بالعثور على عشرات الوظائف المناسبة لك عن طريق محركات بحث
                 تقدر تحدد منها الراتب وموقع الوظيفة وساعات العمل!!
             </p>
-            <button class="about-button">سجل الآن</button>
+            <a href="./userSignup.php" class="about-button">سجل الآن</a>
         </div>
         <div class="about-image">
             <img src="../logo.jpg" alt="البحث عن وظيفة" width="500" height="400">
